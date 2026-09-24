@@ -1,0 +1,6 @@
+{
+  "name": "Innovative Robodog - 12-DOF Bionic Quadruped Studio",
+  "description": "Interactive animated engineering platform, 12-DOF kinematics simulator, and Gemini VLA intelligence suite for the Cerberus-04 bionic quadruped robot dog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
